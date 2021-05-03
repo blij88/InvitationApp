@@ -1,0 +1,14 @@
+﻿Basis opdrachten:
+kijk welke typen constructors kunnen krijgen,zorg ervoor dat de constructors de juiste data aanmaken of initialliseren
+
+maak van prop name 3 prop: first sur and sur prefix
+maak daarna een prop  aan voor de FullName met de volgende vereisen:
+zorg ervoor dat er geen extra spaties zijn bij gebrek aan tussenvoegsels
+een genodigde heeft een nette aanhef:(meneer/mevrouw, Dear voor neutral or unknown) achternaam, voornaam tussenvoegsel
+alle andere personen hebben de opbouw voor fullname als volgd: voornaam tussenvoegsels achternaam
+
+vervolg opdracht:
+maak in de uitnodiging een aanhef met "sir, madam or Sir/Madam" afhankelijk van geslacht
+maak verschillende uitnodigingen per ContactMethode, neem per contact methode de contactgegevens op
+
+alle personen hebben een geslacht(keuzes zijn vrouw, man, neutraal , UnKnown)
